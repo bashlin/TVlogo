@@ -3,7 +3,7 @@
 > 
 【[CCTV](./md/01.md)】  【[CGTN=中国教育电视台=新华社=中央新影](./md/02.md)】
 
-【[全国卫视](./md/03.md)】  【[港澳地区](./md/04.md)】  【[台湾地区一](./md/05.md)】  【[台湾地区二](./md/06.md)】  【[台湾地区三](./md/07.md)】
+【[全国卫视](./md/03.md)】  【[港澳地区](./md/04.md)】  【[台湾地区一](./md/05.md)】  【[台湾地区二](./md/06.md)】  【[台湾地区三](./md/07.md)】  【[东南亚地区](./md/51.md)】
 
 【[数字频道](./md/10.md)】  【[DOX系列](./md/11.md)】  【[iHOT系列](./md/12.md)】  【[NewTV系列](./md/13.md)】  【[CIBN系列](./md/14.md)】
 
@@ -21,13 +21,18 @@
 
 【[辽宁](./md/48.md)】  【[吉林](./md/49.md)】  【[黑龙江](./md/50.md)】
 
+### 2023-12-19 更新
+> 【[港澳地区](./md/04.md)】  【[东南亚地区](./md/51.md)】
+
+<img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/AstroHHD.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/AstroQuanJia.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/AstroSHX.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/AstroWLT.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/AstroXiYue.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/AstroXTY.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/Channel5.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/Channel8.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/ChannelSuria.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/ChannelU.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/ChannelVasantham.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/ChannelAsiaNew.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/TVBClassic.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/TVBEntertainmentNews.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/TVBMagic.png">
+
 ### 2023-03-26 更新
 > 【[广东](./md/26.md)】  【[北京](./md/33.md)】  【[湖南](./md/29.md)】  大幅度调整，建议重新下载保存
 
-<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xindm.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jtlc.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB5.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HOY1.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI5.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai01.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai02.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai03.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai04.png">
+<img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/xindm.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/jtlc.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/TVB3.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/TVB5.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/HOY1.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/CTI5.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/jingcai01.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/jingcai02.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/jingcai03.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/jingcai04.png">
 
 ### 2023-03-20 更新
 > 【[辽宁](./md/48.md)】  【[福建](./md/24.md)】  【[山东](./md/20.md)】  【[天津](./md/34.md)】
 > 按照新的频道呼号核对实际台标做了名称调整
 
-<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/leyou.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/huashu4k.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TaiwanPlus.png"><img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian9.png"><img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/bjtjcai.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hubei7.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Mnews.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/inbm.png">
+<img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/leyou.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/huashu4k.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/TaiwanPlus.png"><img src="https://raw.githubusercontent.com/bashlin/TVLogo/main/img/Fujian9.png"><img src="https://raw.githubusercontent.com/bashlin/TVLogo/main/img/bjtjcai.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/Hubei7.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/Mnews.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/inbm.png">
