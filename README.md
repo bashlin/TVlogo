@@ -24,7 +24,7 @@
 ### 2024-01-16 更新
 > 【[港澳地区](./md/04.md)】
 
-<img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/HOYTV76.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/HOYTV77.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/HOYTV78.png">
+<img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/HOYTV76.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/HOYTV77.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/HOYTV78.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/RTHK31.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/RTHK32.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/RTHK33.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/RTHK34.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/RTHK35.png">
 
 ### 2023-12-19 更新
 > 【[港澳地区](./md/04.md)】  【[东南亚地区](./md/51.md)】
