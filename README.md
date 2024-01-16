@@ -21,6 +21,11 @@
 
 【[辽宁](./md/48.md)】  【[吉林](./md/49.md)】  【[黑龙江](./md/50.md)】
 
+### 2024-01-16 更新
+> 【[港澳地区](./md/04.md)】
+
+<img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/HOYTV76.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/HOYTV77.png"><img src="https://raw.githubusercontent.com/bashlin/TVlogo/main/img/HOYTV78.png">
+
 ### 2023-12-19 更新
 > 【[港澳地区](./md/04.md)】  【[东南亚地区](./md/51.md)】
 
